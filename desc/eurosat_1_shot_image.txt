@@ -1,0 +1,5 @@
+Image_0:The cars in the image are distinguished by their unique shapes and colors. One car has a curved design, while another appears to be rectangular or box-like with distinct lines along its body surface.
+Image_1:The image prominently features two cars, one with a distinctive red and white design on its side.
+Image_2:The image features a car with multiple windows and headlights.
+Image_3:The image features a black car with four-wheeled design, possibly indicating that it is an automobile.
+Image_4:The image captures various cars, each with distinct features such as their color and shape. For instance, one car is red in color while another has a unique design that stands out from the rest of them.

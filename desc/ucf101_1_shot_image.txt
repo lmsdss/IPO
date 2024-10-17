@@ -1,0 +1,51 @@
+Image_0:In the image, a woman is applying makeup to another person's eyes. The focus of attention lies on her actions and interactions with other elements in the scene such as mirrors or personal items like brushes which are likely used for this purpose.
+Image_1:A woman is getting her makeup done, with a professional applying lipstick and eyeshadow.
+Image_2:The person in the image is engaged in an outdoor activity, possibly hunting or shooting a firearm. They are standing on top of dirt and surrounded by various elements such as piles of leaves, dead plants, trees with green foliage around them, which suggests that they might be near nature trails or forest areas where these activities can take place.
+Image_3:A baby in a yellow shirt and blue jeans is actively crawling on the tiled floor, while an adult wearing red pants stands nearby.
+Image_4:A female gymnast is skillfully performing on a balance beam, showcasing her athletic abilities as she navigates the challenging obstacle.
+Image_5:The image features a marching band with various individuals performing, wearing uniforms and carrying drums.
+Image_6:A pitcher is in the process of delivering a pitch, holding and throwing an orange ball. The person's position on the field indicates their role as part of team activities during baseball games or practice sessions.
+Image_7:The image captures a moment where an object is being observed, possibly by someone or something else in the scene.
+Image_8:The image captures a dynamic moment in the basketball game, where players are actively participating and competing against each other.
+Image_9:A man is performing a bench press exercise in the gym, with his arms extended and holding onto heavy weights. The person observing him appears to be an instructor or personal trainer who might provide guidance during this workout session for strength training purposes.
+Image_10:A person is riding a bicycle down the street, wearing dark clothing and possibly carrying items in their backpack.
+Image_11:The image captures a moment in the game of pool, with people actively engaged. The main focus is on an active billiards table where several balls are scattered around and some players have their cues ready for play or waiting to take turns at hitting them into pockets marked by white stars against blue background walls.
+Image_12:A young woman is getting her hair styled, using a black blow dryer to dry and shape it.
+Image_13:The young boy, with his blonde hair and a bib around the neck of an empty wooden chair in front of him is smiling at something bright.
+Image_14:A person is engaged in a workout routine, standing on the floor and performing exercises with dumbbells.
+Image_15:The image showcases a man wearing black and red clothing, actively bowling with his arm swinging down.
+Image_16:A man is performing a workout at the gym, engaging in martial arts training using an exercise machine with purple handles.
+Image_17:The image showcases a woman engaging in vigorous exercise, specifically boxing. She is wearing shorts and has her hair tied back as she practices the sport with determination on an indoor floor surrounded by various objects like chairs and storage bins under shelves or racks that are part of gym equipment setup for fitness purposes.
+Image_18:The image features a swimmer in action, wearing pink and white attire. They are swimming through the water with determination as they navigate around green pool dividers or lane markers marked by yellow stripes on their sides for easy identification within the swim lanes of an indoor facility like this one depicted here.
+Image_19:The image captures a man engaging in the act of brushing his teeth, which involves using toothpaste and an oral hygiene tool.
+Image_20:A man is performing a workout in an indoor gym, showcasing his strength by flipping two barbells with impressive dexterity.
+Image_21:A person is seen in mid-air, performing a diving action with their arms outstretched and wearing black swim trunks.
+Image_22:The image captures a moment of action on the cricket field where players are running, and an umpire is closely observing. The presence of various clothing items like jerseys with numbers indicates that this might be part of organized sports activities rather than casual play or informal games among friends.
+Image_23:The person is swinging a bat with focus and determination, displaying athleticism as they perform the action.
+Image_24:A person is seen slicing a red tomato with precision using an overhand grip on the knife.
+Image_25:A person is in mid-air, about to perform a diving jump into the pool with their arms extended.
+Image_26:The person in the image is actively playing a drum set, with his hands moving to strike various drums. He has blonde hair and appears focused on performing this musical act indoors near large windows or curtains that provide natural light for better visibility during practice sessions.
+Image_27:The image captures two athletes engaged in a fencing match during the 2008 Olympic Games, showcasing their skills and competitive spirit.
+Image_28:The image captures a dynamic scene of two people playing field hockey, with one person bent over and holding the ball while another player in blue is standing behind him.
+Image_29:The image features a gymnast in action, performing an aerial leap and catching the ball mid-air with her hands.
+Image_30:The image shows multiple people participating in a game on the field, with some players actively involved and others standing or watching.
+Image_31:The human action in the image is swimming, as evidenced by their body position and movement through water.
+Image_32:The image captures a golf player in motion, swinging his club on the green course. The golfer is dressed formally and appears to be focusing intently while hitting the ball with precision during an actual game of golfing.
+Image_33:A bald man with a beard is using an electric hair trimmer to shave off his head, while another person sits in the background.
+Image_34:The human actions in the image involve a man wearing blue clothes, using an iron hammer to hit wood pieces with precision and skill.
+Image_35:A person is seen throwing a ball, possibly in the context of playing sports or engaging in physical activity.
+Image_36:The image captures a dynamic scene with people performing various actions, including doing handstands and bending over.
+Image_37:A person is performing a handstand, with their legs bent and hands gripping the floor for balance.
+Image_38:A man with a mustache is cutting hair, showing his focus and skill in the act of shaving.
+Image_39:A female athlete is captured in motion, executing an athletic jump while wearing a white shirt and red shorts.
+Image_40:The image shows a group of people on horseback racing, with horses in motion and riders skillfully navigating the course.
+Image_41:The rider, wearing a blue outfit and riding the white horse in an arena with trees surrounding them.
+Image_42:Two girls are engaged in different activities. One girl is actively spinning a hula hoop, while the other stands and appears to be preparing for or participating in an activity involving hoops as well.
+Image_43:The image captures two figure skaters in motion, with one skater leaning over and the other reaching out to grab their partner's arm.
+Image_44:The person is wearing a white shirt and black shorts, holding an orange tennis racket in their hand while standing on the court.
+Image_45:The young individual is holding a toy in their hand, possibly displaying it or interacting with something.
+Image_46:The woman is performing a jumping exercise on the floor, wearing shorts and dancing with enthusiasm.
+Image_47:The man is actively engaged in a boxing stance, wearing black clothing and holding an object that could be considered as either weights or punching bags.
+Image_48:A person is actively engaging in kayaking, navigating through turbulent waters while wearing a wet suit and holding paddle blades.
+Image_49:The image shows a person engaged in knitting, with visible fingers and hands holding yarn. The individual appears to be working on their craft using the needle-like tool for manipulation of threads or fibers during this activity.
+Image_50:The image depicts a man running on the track, wearing athletic clothing and shoes.

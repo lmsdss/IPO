@@ -1,0 +1,1 @@
+python optimize_instructions.py --optimizer="gpt-3.5-turbo" --scorer="text-bison" --instruction_pos="Q_beginning" --dataset="gsm8k" --task="train" --palm_api_key="AIzaSyC5vQSiWZxlfeqL3CSMZFjbSMo73y8fJz0" --openai_api_key="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"
