@@ -8,3 +8,7 @@ Follow [DATASETS.md](DATASETS.md) to install the datasets.
 ## How to Run
 To start training the model, you can run the following script:
 bash scripts/IPO/train.sh
+
+
+## Acknowledgements
+We gratefully acknowledge that the IPO code is based on the excellent repositories [CoOp](https://github.com/KaiyangZhou/CoOp/tree/main) and [OPRO](https://github.com/google-deepmind/opro). Many thanks to their contributors for their inspiring work!
