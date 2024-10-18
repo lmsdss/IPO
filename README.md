@@ -6,8 +6,14 @@ This code is built on top of the awesome toolbox [Dassl.pytorch](https://github.
 Follow [DATASETS.md](DATASETS.md) to install the datasets.
 
 ## How to Run
-To start training the model, you can run the following script:
+To start training the model, you can run the following script:  
 bash scripts/IPO/train.sh
+
+To test the model, you can run the following script:  
+bash scripts/IPO/test.sh
+
+To generate image descriptions using MiniCPM-V-2.0, run the following script:  
+python generate_descriptions.py
 
 
 ## Acknowledgements
