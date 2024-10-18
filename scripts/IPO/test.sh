@@ -1,0 +1,2 @@
+python train.py --trainer=CoOp  --test=true --config-file=configs/trainers/CoOp/vit_b16_ctxv1.yaml TRAINER.COOP.CTX_INIT "Identify the unique visual features of the <CLASS> flower accurately."  DATASET.SUBSAMPLE_CLASSES base
+python train.py --trainer=CoOp  --test=true --config-file=configs/trainers/CoOp/vit_b16_ctxv1.yaml TRAINER.COOP.CTX_INIT "Identify the unique visual features of the <CLASS> flower accurately."  DATASET.SUBSAMPLE_CLASSES new
