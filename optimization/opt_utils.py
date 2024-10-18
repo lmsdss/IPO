@@ -359,8 +359,8 @@ def run_evolution(**kwargs):
         trainer = build_trainer(cfg)
 
         acc, entropy_value = trainer.train_llm(start_batch_idx, end_batch_idx, instruction)  #
-        # 打开txt文件
-        with open('/home/robot/swf/IPO/desc/oxford_flowers_1_shot_image.txt', 'r', encoding='utf-8') as file:
+        # Textual descriptions of training images
+        with open('/desc/oxford_flowers_1_shot_image.txt', 'r', encoding='utf-8') as file:
             descrip = file.readlines()
 
         descrip_str = '\n'.join(descrip)
